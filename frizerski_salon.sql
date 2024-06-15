@@ -1,4 +1,4 @@
-use master;
+ï»¿use master;
 go
 drop database if exists frizerski_salon;
 go
@@ -44,19 +44,19 @@ alter table termin add foreign key(id_djelatnik) references djelatnik (id_djelat
 alter table termin add foreign key (id_korisnik) references korisnik (id_korisnik);
 
 insert into korisnik(ime,prezime,telefon)  values 
-('Martina','Mirkoviæ','0995814578'), 
-('Alen','Ljubojeviæ','0998758547'),
-('Andrea','Sreækoviæ','099857845');
+('Martina','MirkoviÄ‡','0995814578'), 
+('Alen','LjubojeviÄ‡','0998758547'),
+('Andrea','SreÄ‡koviÄ‡','099857845');
 
 insert into djelatnik(ime,prezime,oib)  values 
-('Luka','Lukiæ','03745263781'), 
-('Marinka','Markiæ','65738291564'),
-('Ljerka','Ljerkiæ','26753482564');
+('Luka','LukiÄ‡','03745263781'), 
+('Marinka','MarkiÄ‡','65738291564'),
+('Ljerka','LjerkiÄ‡','26753482564');
 
 insert into frizura(naziv,cijena,trajanje)  values 
 ('Bob frizura',50,'30 minuta'), 
 ('Pixie frizura',40,'40 minuta'),
-('Visoki fade s boènim razdjeljkom ',20,'15 minuta');
+('Visoki fade s boÄnim razdjeljkom ',20,'15 minuta');
 
 insert into termin (datum) values
 ('2024-07-08'),('2024-08-07'),('2024-08-09');
