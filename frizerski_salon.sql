@@ -9,9 +9,9 @@ use frizerski_salon;
 
 create table termin(
 sifra int not null primary key identity(1,1),
-id_frizura int,
-id_djelatnik int,
-id_korisnik int,
+id_frizura int not null,
+id_djelatnik int not null,
+id_korisnik int not null,
 datum datetime
 );
 
@@ -19,7 +19,7 @@ create table frizura(
 id_frizura int not null primary key identity(1,1),
 naziv varchar(50) not null,
 cijena decimal(18,2) not null,
-trajanje varchar(20) not null
+trajanje int not null
 );
 
 create table djelatnik(
@@ -54,12 +54,17 @@ insert into djelatnik(ime,prezime,oib)  values
 ('Ljerka','Ljerkić','26753482564');
 
 insert into frizura(naziv,cijena,trajanje)  values 
-('Bob frizura',50,'30 minuta'), 
-('Pixie frizura',40,'40 minuta'),
-('Visoki fade s bočnim razdjeljkom ',20,'15 minuta');
+('Bob frizura',50,120), 
+('Pixie frizura',40,100),
+('Visoki fade s bočnim razdjeljkom ',20,15);
 
-insert into termin (datum) values
-('2024-07-08'),('2024-08-07'),('2024-08-09');
+insert into termin (id_frizura,id_djelatnik,id_korisnik,datum) values
+--Bob frizuru(1) će raditi Marinka(2) na Martini(1)
+(1,2,1,'2024-06-27 16:30'),
+--Pixie frizuru(2) će raditi Ljerka(3) na Andrei(3)
+(2,3,3,'2024-07-12 12:15'),
+--Visoki fade s bočnim razdjeljkom(3) će raditi Luka(1) na Alenu(2)
+(3,1,2,'2024-06-24 08:00');
 
 
 
