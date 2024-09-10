@@ -1,7 +1,9 @@
 ﻿
 using UcenjeCS;
 
-new UcenjeCS.E18KonzolnaAplikacija.Izbornik();
+
+
+//new UcenjeCS.E18KonzolnaAplikacija.Izbornik();
 
 //new UcenjeCS.E17GenericiLambdaEkstenzije.Program();
 
