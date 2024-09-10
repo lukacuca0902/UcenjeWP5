@@ -13,3 +13,8 @@ C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\obj\Debug
 C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.pdb
 C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.genruntimeconfig.cache
 C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\obj\Debug\net8.0\ref\UcenjeCS.dll
+C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\bin\Debug\net8.0\Faker.Net.6.0.dll
+C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\bin\Debug\net8.0\de-DE\Faker.Net.6.0.resources.dll
+C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.csproj.Up2Date
