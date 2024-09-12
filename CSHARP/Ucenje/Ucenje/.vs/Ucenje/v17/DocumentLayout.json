@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD2E0B79-57F9-4C22-B125-FE95DF7A0846}|WebAPI\\WebAPI.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\webapi\\controllers\\httpmetodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD2E0B79-57F9-4C22-B125-FE95DF7A0846}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\httpmetodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\edunovaapp\\controllers\\smjercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|solutionrelative:edunovaapp\\controllers\\smjercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD2E0B79-57F9-4C22-B125-FE95DF7A0846}|WebAPI\\WebAPI.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD2E0B79-57F9-4C22-B125-FE95DF7A0846}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\edunovaapp\\models\\smjer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|solutionrelative:edunovaapp\\models\\smjer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\edunovaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|solutionrelative:edunovaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\edunovaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|solutionrelative:edunovaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\edunovaapp\\data\\edunovacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79EB408-9BD3-4212-9F7C-81221F7E4B97}|EdunovaAPP\\EdunovaAPP.csproj|solutionrelative:edunovaapp\\data\\edunovacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2E0B79-57F9-4C22-B125-FE95DF7A0846}|WebAPI\\WebAPI.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\webapi\\controllers\\httpmetodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2E0B79-57F9-4C22-B125-FE95DF7A0846}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\httpmetodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD2E0B79-57F9-4C22-B125-FE95DF7A0846}|WebAPI\\WebAPI.csproj|c:\\users\\luka\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenje\\webapi\\models\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +42,72 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Smjer.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Models\\Smjer.cs",
+              "RelativeDocumentMoniker": "EdunovaAPP\\Models\\Smjer.cs",
+              "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Models\\Smjer.cs",
+              "RelativeToolTip": "EdunovaAPP\\Models\\Smjer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:37:42.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmjerController.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Controllers\\SmjerController.cs",
+              "RelativeDocumentMoniker": "EdunovaAPP\\Controllers\\SmjerController.cs",
+              "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Controllers\\SmjerController.cs",
+              "RelativeToolTip": "EdunovaAPP\\Controllers\\SmjerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:13:21.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Program.cs",
+              "RelativeDocumentMoniker": "EdunovaAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Program.cs",
+              "RelativeToolTip": "EdunovaAPP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:44:25.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EdunovaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Data\\EdunovaContext.cs",
+              "RelativeDocumentMoniker": "EdunovaAPP\\Data\\EdunovaContext.cs",
+              "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Data\\EdunovaContext.cs",
+              "RelativeToolTip": "EdunovaAPP\\Data\\EdunovaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:41:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EdunovaAPP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\appsettings.Development.json",
+              "RelativeToolTip": "EdunovaAPP\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T17:35:28.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Osoba.cs",
               "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\WebAPI\\Models\\Osoba.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\Osoba.cs",
@@ -39,28 +120,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "HttpMetodeController.cs",
               "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\WebAPI\\Controllers\\HttpMetodeController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\HttpMetodeController.cs",
               "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\WebAPI\\Controllers\\HttpMetodeController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\HttpMetodeController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAwwEcAAAAdAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAwwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T18:15:26.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:07:50.454Z",
               "EditorCaption": ""
             }
           ]
