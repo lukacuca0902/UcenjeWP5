@@ -50,8 +50,7 @@
               "RelativeToolTip": "EdunovaAPP\\Models\\Smjer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:37:42.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:37:42.168Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "EdunovaAPP\\Controllers\\SmjerController.cs",
               "ToolTip": "C:\\Users\\Luka\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\Ucenje\\EdunovaAPP\\Controllers\\SmjerController.cs",
               "RelativeToolTip": "EdunovaAPP\\Controllers\\SmjerController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T18:13:21.58Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "EdunovaAPP\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T17:44:25.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T17:44:25.385Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "EdunovaAPP\\Data\\EdunovaContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T17:41:33.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T17:41:33.537Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "EdunovaAPP\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-12T17:35:28.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T17:35:28.202Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "WebAPI\\Models\\Osoba.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:46:09.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T18:46:09.906Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "WebAPI\\Controllers\\HttpMetodeController.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAwwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:15:26.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T18:15:26.651Z"
             }
           ]
         }
